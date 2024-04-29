@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Shodlik Shomuratov
+- 👀 I’m interested in building modern web application
+- 🌱 I’m currently learning about Node.js backend framework Nest.js and delwe into some System Architechture
+- 📫 How to reach me: Telegram - @shodlik_shomuratov
